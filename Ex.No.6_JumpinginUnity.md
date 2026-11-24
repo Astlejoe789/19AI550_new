@@ -1,6 +1,7 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 02/11/2026
+### Name : ASTLE JOE A S
+### REGISTER NUMBER : 212224240019
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
@@ -49,10 +50,11 @@ public class PlayerJump : MonoBehaviour
 ```
 ### Output:
 
+Initial Position:
+<img width="1907" height="935" alt="691835691-d28a9d03-c28b-4a56-823c-2b86619efd1c" src="https://github.com/user-attachments/assets/97ec4a7e-8811-45d2-9ca4-705a70f1d972" />
 
-
-
-
+Final Position: (Upon clicking Space Bar):
+<img width="1919" height="1021" alt="691838259-68784fc9-c765-4413-a4dd-cb6010e128fc" src="https://github.com/user-attachments/assets/9d1410bd-0a91-4dda-b435-37d687e11768" />
 
 
 
